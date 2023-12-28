@@ -18,3 +18,5 @@ Technologies Used:
 Project Goals:
 * Deliver an engaging quiz experience with a focus on user interaction and feedback.
 * Showcase proficiency in React.js development and best practices.
+
+* #useReducer #useEffect
