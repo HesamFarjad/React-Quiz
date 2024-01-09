@@ -20,3 +20,5 @@ Project Goals:
 * Showcase proficiency in React.js development and best practices.
 
 * #useReducer #useEffect
+
+You can find its video on YouTube: [YouTube] (https://youtu.be/xdIgZKOsciE)
