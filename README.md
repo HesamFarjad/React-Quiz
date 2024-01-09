@@ -22,3 +22,11 @@ Project Goals:
 * #useReducer #useEffect
 
 You can find its video on YouTube: [YouTube] (https://youtu.be/xdIgZKOsciE)
+
+
+<img width="1440" alt="Screenshot 2024-01-09 at 09 30 14" src="https://github.com/HesamFarjad/React-Quiz/assets/81914229/64aa5794-f6cb-484f-88e1-5364d6c51905">
+<img width="1440" alt="Screenshot 2024-01-09 at 09 29 56" src="https://github.com/HesamFarjad/React-Quiz/assets/81914229/cc70bfbf-b540-4575-b00c-fbb549794878">
+<img width="1440" alt="Screenshot 2024-01-09 at 09 29 33" src="https://github.com/HesamFarjad/React-Quiz/assets/81914229/73ea0097-202c-4c9e-a31f-463dafaed259">
+<img width="1440" alt="Screenshot 2024-01-09 at 09 29 11" src="https://github.com/HesamFarjad/React-Quiz/assets/81914229/992388d8-2152-4122-9b75-24799d4ea0ea">
+
+
